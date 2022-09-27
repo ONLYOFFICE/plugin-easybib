@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-easybib. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 # EasyBib plugin
 
 The EasyBib plugin allows users to automatically add the references to the document in full accordance with style guides of their choice.
